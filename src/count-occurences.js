@@ -9,24 +9,9 @@
  * @param {string} n - string to count occurrences off
  * @returns {number} how many occurrences of the string are in the array
  */
-function x
-(
-y,
-n
-)
-
-
-                        {
-        let x2=(
-(
-(
-  (
-(0)
-)))
-                )
-        for (
-  
-            let mars of (
+function x(y,n) {
+        let x2 = (0)
+        for (let mars of (
         ((
                 y)))){if(((((n=mars))))){x2++}}return(((((x2)))))}
 
